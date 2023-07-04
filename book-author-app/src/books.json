@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "title": "This Side of Paradise",
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee"
+    },
+    {
+      "title": "Go Set a Watchman",
+      "author": "Harper Lee"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen"
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger"
+    },
+    {
+      "title": "Franny and Zooey",
+      "author": "J.D. Salinger"
+    }
+  ]
+}
